@@ -13,7 +13,7 @@
 # then solve(X) returns its inverse.
 #
 #----------------------------------------------------------------------------------
-
+# Clean up workspace
 rm(list=ls()) 
 
 ## Function: Matrix object that can cache inverse
